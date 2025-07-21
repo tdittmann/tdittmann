@@ -14,9 +14,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       filename: 'service-worker.js',
       manifest: {
-        name: "Vue PWA Example",
-        short_name: "VPE",
-        description: "A super installable app created with Vue",
+        name: "Timo Dittmann",
+        short_name: "TD",
+        description: "Personal page of Timo Dittmann",
         icons: [
           {src: '/app-icons/icon-48x48.png', sizes: '48x48', type: 'image/png'},
           {src: '/app-icons/icon-72x72.png', sizes: '72x72', type: 'image/png'},
