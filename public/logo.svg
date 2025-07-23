@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="svgcontent" x="623" y="424" viewBox="0 0 424 424"
+     xml:space="preserve" enable-background="new 0 0 424 424" overflow="visible" width="424" height="424"><style type="text/css">.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill:#FFFFFF;}
+	.st4{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st5{fill:url(#SVGID_3_);}
+	.st6{mask:url(#SVGID_2_);}
+	.st7{fill:none;stroke:#BE3630;stroke-width:7;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#BE3630;stroke-width:2;stroke-miterlimit:10;}
+	.st10{filter:url(#Adobe_OpacityMaskFilter_3_);}
+	.st11{fill:none;}
+	.st12{mask:url(#SVGID_4_);fill:none;stroke:#BE3630;stroke-width:6;stroke-miterlimit:10;}</style>
+    <defs><filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="170.4" y="11" width="421.2" height="421.2"><feFlood result="back" flood-opacity="1" flood-color="white"></feFlood><feBlend
+            in="SourceGraphic" in2="back"></feBlend></filter></defs>
+    <mask maskUnits="userSpaceOnUse" x="170.4" y="11" width="421.2" height="421.2" id="SVGID_2_"><g class="st4" id="svg_1"><rect x="-73" y="-106" class="st5" width="541" height="666" id="svg_2"></rect></g></mask>
+    <g class="layer" style="pointer-events:all"><title style="pointer-events:inherit">Layer 1</title>
+        <g class="st6" id="svg_3" transform="translate(-170 -6)"><circle class="st7" cx="381" cy="221.6" r="161.4" id="svg_4"></circle>
+            <ellipse class="st9" cx="381" cy="221.6" rx="142" ry="141.4" id="svg_5"></ellipse>
+            <mask maskUnits="userSpaceOnUse" x="170.4" y="11" width="421.2" height="421.2" id="SVGID_4_"><g class="st10" id="svg_6"><path class="st1" d="M495.5,26.6L381,225L266.5,26.6C300.2,7.2 339.3,-4 381,-4C422.7,-4 461.8,7.2 495.5,26.6z" id="svg_7"></path><path
+                    class="st1" d="M381,225L266.5,423.3C198,383.8 152,309.8 152,225L381,225z" id="svg_8"></path><path
+                    class="st11" d="M266.5,26.6L381,225L152,225C152,140.3 198,66.3 266.5,26.6z" id="svg_9"></path><path
+                    class="st1" d="M610,225C610,309.8 564,383.8 495.5,423.3L381,225L610,225z" id="svg_10"></path><path
+                    class="st11"
+                    d="M381,225L495.5,423.3C461.8,442.8 422.7,454 381,454C339.3,454 300.2,442.8 266.5,423.3L381,225z"
+                    id="svg_11"></path><path class="st11" d="M610,225L381,225L495.5,26.6C564,66.3 610,140.3 610,225z"
+                                             id="svg_12"></path></g></mask>
+            <circle class="st12" cx="381" cy="221.6" r="207.6" id="svg_13"></circle></g></g></svg>

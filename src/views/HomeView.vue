@@ -13,16 +13,8 @@
 
           <div class="col-sm-12 col-md-7 col-lg-7">
             <div class="home-text hp-left">
-              <h1>Hello World 👋</h1>
-              <p>
-                Ich bin Full-Stack Software Engineer mit über zehn Jahren Berufserfahrung in der
-                Entwicklung komplexer Anwendungen. In dieser Zeit habe ich mit einer Vielzahl von
-                Programmiersprachen und Technologien gearbeitet – aktuell liegt mein Fokus auf Vue
-                und Go. Neben meiner praktischen Erfahrung habe ich auch mehrere anerkannte
-                Zertifizierungen erworben, darunter "Oracle Certified Professional – Java SE
-                Programmer" sowie "iSAQB Certified Professional for Software Architecture – Advanced
-                Level".
-              </p>
+              <h1>{{ $t('home.title') }}</h1>
+              <p>{{ $t('home.aboutMe') }}</p>
             </div>
           </div>
         </div>
