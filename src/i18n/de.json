@@ -1,0 +1,42 @@
+{
+  "home": {
+    "navigation": "Home",
+    "title": "Hello World 👋",
+    "aboutMe": "Ich bin Timo Dittmann, Full-Stack Software Engineer mit über zehn Jahren Berufserfahrung in der Entwicklung komplexer Anwendungen. In dieser Zeit habe ich mit einer Vielzahl von Programmiersprachen und Technologien gearbeitet – aktuell liegt mein Fokus auf Vue und Go. Neben meiner praktischen Erfahrung habe ich auch mehrere anerkannte Zertifizierungen erworben, darunter \"Oracle Certified Professional – Java SE Programmer\" sowie \"iSAQB Certified Professional for Software Architecture – Advanced Level\".",
+    "experience": {
+      "title": "Erfahrung",
+      "3": {
+        "dateRange": "2025 - heute",
+        "company": "Schwarz IT",
+        "title": "Senior Full-Stack Software Engineer",
+        "description": "Neuentwicklung des Warenwirtschaftssystems von Lidl, das ursprünglich vor Jahrzehnten in Gupta entwickelt wurde. Umsetzung im Cloud-Native-Ansatz mit einem Frontend auf Basis von Vue.js, einem Backend in Go sowie Deployment in Azure bzw. STACKIT."
+      },
+      "2": {
+        "dateRange": "2018 - 2025",
+        "company": "Schwarz IT",
+        "title": "Full-Stack Software Engineer",
+        "description": "Weiterentwicklung und Modernisierung des Etiketten- und Plakatdrucksystems von Kaufland. Neben der Implementierung neuer Funktionen im bestehenden System wurden einzelne Komponenten aus dem monolithischen Aufbau herausgelöst und in eigenständige Microservices überführt."
+      },
+      "1": {
+        "dateRange": "2016 - 2018",
+        "company": "Schwarz IT",
+        "title": "Junior Full-Stack Software Engineer",
+        "description": "Erste Praxiserfahrung in der Weiterentwicklung eines bestehenden Systems zur Steuerung des Etiketten- und Plakatdrucks bei Kaufland."
+      },
+      "0": {
+        "dateRange": "2013 - 2016",
+        "company": "Schwarz IT",
+        "title": "Duales Studium Angewandte Informatik",
+        "description": "Einstieg in die Java-Entwicklung mit breitem Einblick in verschiedene Themenbereiche der Softwareentwicklung. Aufbau fundierter theoretischer und praktischer Grundlagen."
+      }
+    },
+    "certificates": {
+      "title": "Zertifikate & Trainings"
+    }
+  },
+  "projects": {
+    "navigation": "Projekte",
+    "title": "Meine Projekte",
+    "subtitle": "Auszug aus meinen privaten Projekten"
+  }
+}

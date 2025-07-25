@@ -18,6 +18,28 @@
         </RouterLink>
       </div>
       <!-- /Text Logo -->
+
+      <!-- Navigation -->
+      <div class="site-nav mobile-menu-hide">
+        <ul class="leven-classic-menu site-main-menu">
+          <!--          <li class="menu-item menu-item-has-children current-menu-item">-->
+
+          <li class="menu-item">
+            <RouterLink to="/" :activeClass="'current-menu-item'">{{
+              $t('home.navigation')
+            }}</RouterLink>
+          </li>
+          <li class="menu-item">
+            <RouterLink to="/projects" :activeClass="'current-menu-item'">{{
+              $t('projects.navigation')
+            }}</RouterLink>
+          </li>
+        </ul>
+      </div>
+
+      <a class="menu-toggle mobile-visible">
+        <i class="fa fa-bars"></i>
+      </a>
     </div>
   </header>
 </template>

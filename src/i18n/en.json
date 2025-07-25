@@ -1,0 +1,42 @@
+{
+  "home": {
+    "navigation": "Home",
+    "title": "Hello World 👋",
+    "aboutMe": "I am Timo Dittmann a full-stack software engineer with over ten years of professional experience in the development of complex applications. During this time I have worked with a variety of programming languages and technologies - currently my focus is on Vue and Go. In addition to my practical experience, I have also acquired several recognised certifications, including \"Oracle Certified Professional - Java SE Programmer\" and \"iSAQB Certified Professional for Software Architecture - Advanced Level\"",
+    "experience": {
+      "title": "Experience",
+      "3": {
+        "dateRange": "2025 - present",
+        "company": "Schwarz IT",
+        "title": "Senior Full-Stack Software Engineer",
+        "description": "Greenfield development of Lidl's merchandise management system, originally built decades ago using Gupta. Implementation following a cloud-native approach with a Vue.js frontend, a Go backend, and deployment on Azure and STACKIT."
+      },
+      "2": {
+        "dateRange": "2018 - 2025",
+        "company": "Schwarz IT",
+        "title": "Full-Stack Software Engineer",
+        "description": "Further development and modernization of Kaufland's label and poster printing system. In addition to adding new features to the existing application, parts of the monolith were extracted and migrated to standalone microservices."
+      },
+      "1": {
+        "dateRange": "2016 - 2018",
+        "company": "Schwarz IT",
+        "title": "Junior Full-Stack Software Engineer",
+        "description": "Gained initial hands-on experience in enhancing an existing system responsible for managing label and poster printing at Kaufland."
+      },
+      "0": {
+        "dateRange": "2013 - 2016",
+        "company": "Schwarz IT",
+        "title": "Study Program in Computer Science",
+        "description": "Introduction to Java development with broad exposure to various software engineering topics. Built a solid foundation in both theoretical knowledge and practical skills."
+      }
+    },
+    "certificates": {
+      "title": "Certificates & Trainings"
+    }
+  },
+  "projects": {
+    "navigation": "Projects",
+    "title": "My Projects",
+    "subtitle": "A few of my private projects"
+  }
+}
