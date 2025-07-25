@@ -22,9 +22,7 @@ import HeaderComponent from '@/components/HeaderComponent.vue'
       <div id="main" class="site-main">
         <div id="main-content" class="single-page-content">
           <div id="primary" class="content-area">
-            <div id="content" class="page-content site-content single-post" role="main">
-              <RouterView />
-            </div>
+            <RouterView />
           </div>
         </div>
       </div>
